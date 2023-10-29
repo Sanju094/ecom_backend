@@ -29,6 +29,9 @@
         "react-bootstrap": "^2.9.0",
         "slugify": "^1.6.6"
     },
+    "engines": {
+        "node": ">=14.20.1"
+      },
     "devDependencies": {
         "gh-pages": "^6.0.0"
     }
